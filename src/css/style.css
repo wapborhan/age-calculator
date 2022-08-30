@@ -1,3 +1,15 @@
+@import "https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap";
+
+#age-result {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  border-radius: 20px;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif
+}
+
 /*----------bootstrap-navbar-css------------*/
 .navbar-logo {
   /* padding: 15px; */
